@@ -1,4 +1,7 @@
-# Final Project
+# Kenya Voting Analysis
+# Rachel Corcoran-Adams and Emily Patterson
+# October 10, 2020
+Python Version: 2.7.5
 
 ## Script 1
 Script one inputs a user-given latitude and longitude to output the weather conditions based on that requested locations. This script uses web scraping, string concatenation, and 
